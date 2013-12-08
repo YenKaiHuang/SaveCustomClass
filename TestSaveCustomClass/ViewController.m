@@ -79,6 +79,7 @@
         NSLog(@"item: %d", i);
         NSLog(@"customClass name = %@", customClass.name);
         NSLog(@"customClass age = %d", customClass.age);
+        NSLog(@"customClass city = %@", customClass.city);
         NSLog(@"customClass weight = %f", customClass.weight);
         NSLog(@"-------------------------");
     }
